@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Attendance Memo</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Attendance Memo</string>
+    <string name="nav_header_subtitle">Powered by CCC</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="ccc"> Cloud Computing Cell has been a part of Ajay Kumar Garg Engineering College since Feb 2016. The members are exposed to the latest Cloud Technology that enable them to be market ready thereby increasing their opportunities in placements and research. It provides a platform to the students to compute, manage and deploy the cloud.
+    </string>
+
+    <string-array name="section">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="year">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+
+    <array name="branch">
+        <item>CSE</item>
+        <item>IT</item>
+        <item>ECE</item>
+        <item>ME</item>
+        <item>CE</item>
+        <item>EN</item>
+        <item>EI</item>
+    </array>
+
+    <string name="title_activity_splash_screen">Attendance Memo</string>
+</resources>
